@@ -1,6 +1,8 @@
 # Classification Models
 
-Bem-vindo ao repositório **Classification-Models**! Aqui você encontrará um estudo abrangente sobre Aprendizagem de Máquina, focado em Algoritmos de Classificação, suas Avaliações, Testes de Combinação e Rejeição de Classificadores. 
+>Este repositório é de estudo pessoal sobre Modelos de Classificação.<
+
+* Aqui você encontrará um estudo abrangente sobre Aprendizagem de Máquina, focado em Algoritmos de Classificação, suas Avaliações, Testes de Combinação e Rejeição de Classificadores. 
 
 ## Estrutura do Repositório
 
