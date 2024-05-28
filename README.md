@@ -1,6 +1,4 @@
-Claro! Aqui está uma versão aprimorada do seu README para o GitHub:
-
-# Classification-Models
+# Classification Models
 
 Bem-vindo ao repositório **Classification-Models**! Aqui você encontrará um estudo abrangente sobre Aprendizagem de Máquina, focado em Algoritmos de Classificação, suas Avaliações, Testes de Combinação e Rejeição de Classificadores. 
 
