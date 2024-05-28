@@ -1,6 +1,6 @@
 # Classification Models
 
->Este repositório é de estudo pessoal sobre Modelos de Classificação.<
+>Este repositório é de estudo pessoal sobre Modelos de Classificação.
 
 * Aqui você encontrará um estudo abrangente sobre Aprendizagem de Máquina, focado em Algoritmos de Classificação, suas Avaliações, Testes de Combinação e Rejeição de Classificadores. 
 
