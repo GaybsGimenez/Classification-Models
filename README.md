@@ -6,7 +6,7 @@
 
 ## Estrutura do Repositório
 
-O repositório está organizado em pastas, cada uma representando um projeto dedicado ao estudo e implementação dos algoritmos de classificação mais populares. 
+O repositório está organizado em arquivos .ipynb, cada um representando um projeto dedicado ao estudo e implementação dos algoritmos de classificação mais populares. 
 
 
 
